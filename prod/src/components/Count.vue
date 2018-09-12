@@ -11,23 +11,22 @@
 
 </template>
 <script>
-    import store from '@/store'
-    import {mapState, mapMutations, mapActions, mapGetters} from 'vuex'
-    export default {
-        data() {
-            return {
-                msg: 'Hello Vuex!'
-            }
-        },
-        store,
-        computed:{
-            ...mapState(["count"]),
-            ...mapGetters(["count"])
-        },
-        methods:{
-            ...mapMutations(['add','reduce']),
-            ...mapActions(['addAction','reduceAction'])
-        }
-
+import store from '@/store'
+import {mapState, mapMutations, mapActions, mapGetters} from 'vuex'
+export default {
+  data () {
+    return {
+      msg: 'Hello Vuex!'
     }
+  },
+  store,
+  computed: {
+    ...mapState(['count']),
+    ...mapGetters(['count'])
+  },
+  methods: {
+    ...mapMutations(['add', 'reduce']),
+    ...mapActions(['addAction', 'reduceAction'])
+  }
+}
 </script>

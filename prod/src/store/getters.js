@@ -1,5 +1,6 @@
 export const getters = {
-    count: function (state) {
-        return state.count += 100;
-    }
+  count: function (state) {
+    state.count += 100
+    return state.count
+  }
 }
