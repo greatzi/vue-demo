@@ -2,16 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ec3f8f7-337f-484e-ac5c-591a3a94863d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/.babelrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/.eslintignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/.eslintrc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/.postcssrc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/build/build.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/build/check-versions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/build/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/build/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/build/vue-loader.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/build/webpack.base.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/build/webpack.dev.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/build/webpack.prod.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/config/dev.env.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/config/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/config/prod.env.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/config/test.env.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/package-lock.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/src/App.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/src/assets/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/src/components/Count.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/src/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/src/router/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/src/store/actions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/src/store/getters.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/src/store/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/src/store/mutations.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/src/store/state.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/static/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/test/unit/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/test/unit/jest.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/test/unit/setup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prod/test/unit/specs/HelloWorld.spec.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prod/src/components/Count.vue" afterPath="$PROJECT_DIR$/prod/src/components/Count.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prod/src/main.js" afterPath="$PROJECT_DIR$/prod/src/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prod/src/router/index.js" afterPath="$PROJECT_DIR$/prod/src/router/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prod/src/store/actions.js" afterPath="$PROJECT_DIR$/prod/src/store/actions.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prod/src/store/getters.js" afterPath="$PROJECT_DIR$/prod/src/store/getters.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prod/src/store/index.js" afterPath="$PROJECT_DIR$/prod/src/store/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prod/src/store/mutations.js" afterPath="$PROJECT_DIR$/prod/src/store/mutations.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prod/src/store/state.js" afterPath="$PROJECT_DIR$/prod/src/store/state.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/.babelrc" afterPath="$PROJECT_DIR$/count/.babelrc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/.editorconfig" afterPath="$PROJECT_DIR$/count/.editorconfig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/.eslintignore" afterPath="$PROJECT_DIR$/count/.eslintignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/.eslintrc.js" afterPath="$PROJECT_DIR$/count/.eslintrc.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/.gitignore" afterPath="$PROJECT_DIR$/count/.gitignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/.postcssrc.js" afterPath="$PROJECT_DIR$/count/.postcssrc.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/README.md" afterPath="$PROJECT_DIR$/count/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/build/build.js" afterPath="$PROJECT_DIR$/count/build/build.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/build/check-versions.js" afterPath="$PROJECT_DIR$/count/build/check-versions.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/build/logo.png" afterPath="$PROJECT_DIR$/count/build/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/build/utils.js" afterPath="$PROJECT_DIR$/count/build/utils.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/build/vue-loader.conf.js" afterPath="$PROJECT_DIR$/count/build/vue-loader.conf.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/build/webpack.base.conf.js" afterPath="$PROJECT_DIR$/count/build/webpack.base.conf.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/build/webpack.dev.conf.js" afterPath="$PROJECT_DIR$/count/build/webpack.dev.conf.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/build/webpack.prod.conf.js" afterPath="$PROJECT_DIR$/count/build/webpack.prod.conf.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/config/dev.env.js" afterPath="$PROJECT_DIR$/count/config/dev.env.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/config/index.js" afterPath="$PROJECT_DIR$/count/config/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/config/prod.env.js" afterPath="$PROJECT_DIR$/count/config/prod.env.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/config/test.env.js" afterPath="$PROJECT_DIR$/count/config/test.env.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/index.html" afterPath="$PROJECT_DIR$/count/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/package-lock.json" afterPath="$PROJECT_DIR$/count/package-lock.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/package.json" afterPath="$PROJECT_DIR$/count/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/src/App.vue" afterPath="$PROJECT_DIR$/count/src/App.vue" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/src/assets/logo.png" afterPath="$PROJECT_DIR$/count/src/assets/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/src/components/Count.vue" afterPath="$PROJECT_DIR$/count/src/components/Count.vue" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/src/main.js" afterPath="$PROJECT_DIR$/count/src/main.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/src/router/index.js" afterPath="$PROJECT_DIR$/count/src/router/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/src/store/actions.js" afterPath="$PROJECT_DIR$/count/src/store/actions.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/src/store/getters.js" afterPath="$PROJECT_DIR$/count/src/store/getters.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/src/store/index.js" afterPath="$PROJECT_DIR$/count/src/store/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/src/store/mutations.js" afterPath="$PROJECT_DIR$/count/src/store/mutations.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/src/store/state.js" afterPath="$PROJECT_DIR$/count/src/store/state.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/static/.gitkeep" afterPath="$PROJECT_DIR$/count/static/.gitkeep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/test/unit/.eslintrc" afterPath="$PROJECT_DIR$/count/test/unit/.eslintrc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/test/unit/jest.conf.js" afterPath="$PROJECT_DIR$/count/test/unit/jest.conf.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/test/unit/setup.js" afterPath="$PROJECT_DIR$/count/test/unit/setup.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/prod/test/unit/specs/HelloWorld.spec.js" afterPath="$PROJECT_DIR$/count/test/unit/specs/HelloWorld.spec.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,10 +88,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file leaf-file-name="Count.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prod/src/components/Count.vue">
+        <entry file="file://$PROJECT_DIR$/count/src/components/Count.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-225">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="250">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
                 <element signature="e#254#281#0" expanded="true" />
               </folding>
@@ -35,27 +100,27 @@
         </entry>
       </file>
       <file leaf-file-name="getters.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prod/src/store/getters.js">
+        <entry file="file://$PROJECT_DIR$/count/src/store/getters.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
-              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+              <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="actions.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prod/src/store/actions.js">
+        <entry file="file://$PROJECT_DIR$/count/src/store/actions.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prod/.gitignore">
+        <entry file="file://$PROJECT_DIR$/count/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -65,9 +130,9 @@
         </entry>
       </file>
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prod/src/main.js">
+        <entry file="file://$PROJECT_DIR$/count/src/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
+            <state relative-caret-position="50">
               <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
@@ -77,7 +142,7 @@
         </entry>
       </file>
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prod/src/store/index.js">
+        <entry file="file://$PROJECT_DIR$/count/src/store/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="50">
               <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
@@ -87,7 +152,7 @@
         </entry>
       </file>
       <file leaf-file-name="mutations.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prod/src/store/mutations.js">
+        <entry file="file://$PROJECT_DIR$/count/src/store/mutations.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
               <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
@@ -97,20 +162,20 @@
         </entry>
       </file>
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/prod/src/router/index.js">
+        <entry file="file://$PROJECT_DIR$/count/src/router/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+            <state relative-caret-position="250">
+              <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="state.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prod/src/store/state.js">
+        <entry file="file://$PROJECT_DIR$/count/src/store/state.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -188,7 +253,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,44 +263,13 @@
             <path>
               <item name="lemon-vuex-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="lemon-vuex-demo" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="dev" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="lemon-vuex-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lemon-vuex-demo" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="prod" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="lemon-vuex-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lemon-vuex-demo" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="prod" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="lemon-vuex-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lemon-vuex-demo" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="prod" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="lemon-vuex-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lemon-vuex-demo" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="prod" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="router" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="lemon-vuex-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lemon-vuex-demo" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="prod" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="store" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="count" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -244,7 +277,7 @@
     <property name="android.sdk.path" value="D:/Android/android-sdk" />
     <property name="nodejs_interpreter_path" value="D:/software/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lemon-qunar" />
+    <property name="last_opened_file_path" value="D:/download/vuex-demo-master" />
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
@@ -364,23 +397,21 @@
       <workItem from="1536400248107" duration="747000" />
       <workItem from="1536546354227" duration="1191000" />
       <workItem from="1536560210629" duration="8650000" />
-      <workItem from="1536623712823" duration="10712000" />
+      <workItem from="1536623712823" duration="11295000" />
+      <workItem from="1536802099115" duration="257000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21300000" />
+    <option name="totallyTimeSpent" value="22140000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2627027" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26756757" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -391,7 +422,9 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -425,14 +458,12 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/prod/src/store/actions.js</url>
+          <url>file://$PROJECT_DIR$/count/src/store/actions.js</url>
           <line>2</line>
-          <properties />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/prod/src/store/actions.js</url>
+          <url>file://$PROJECT_DIR$/count/src/store/actions.js</url>
           <line>5</line>
-          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
@@ -441,7 +472,83 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/prod/src/components/Count.vue">
+    <entry file="file://$PROJECT_DIR$/count/src/components/Count.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#254#281#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/count/src/store/getters.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/count/src/store/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/count/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/count/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/count/src/store/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/count/src/store/mutations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/count/src/store/state.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/count/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/count/src/components/Count.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="17" />
@@ -451,7 +558,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prod/src/store/mutations.js">
+    <entry file="file://$PROJECT_DIR$/count/src/store/mutations.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
@@ -459,7 +566,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prod/config/index.js">
+    <entry file="file://$PROJECT_DIR$/count/config/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -467,15 +574,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prod/build/webpack.dev.conf.js">
+    <entry file="file://$PROJECT_DIR$/count/build/webpack.dev.conf.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1475">
           <caret line="59" column="12" lean-forward="false" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prod/src/main.js">
+    <entry file="file://$PROJECT_DIR$/count/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="9" />
@@ -485,7 +591,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prod/src/App.vue">
+    <entry file="file://$PROJECT_DIR$/count/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -493,7 +599,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prod/src/router/index.js">
+    <entry file="file://$PROJECT_DIR$/count/src/router/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
@@ -501,7 +607,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prod/package.json">
+    <entry file="file://$PROJECT_DIR$/count/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -509,7 +615,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prod/src/store/index.js">
+    <entry file="file://$PROJECT_DIR$/count/src/store/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
@@ -521,7 +627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -529,7 +634,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -537,11 +641,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prod/package.json">
+    <entry file="file://$PROJECT_DIR$/count/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -549,23 +652,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prod/build/webpack.dev.conf.js">
+    <entry file="file://$PROJECT_DIR$/count/build/webpack.dev.conf.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1475">
           <caret line="59" column="12" lean-forward="false" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prod/build/webpack.base.conf.js">
+    <entry file="file://$PROJECT_DIR$/count/build/webpack.base.conf.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="142">
           <caret line="37" column="8" lean-forward="false" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prod/config/index.js">
+    <entry file="file://$PROJECT_DIR$/count/config/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -573,23 +674,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prod/node_modules/vuex/types/index.d.ts">
+    <entry file="file://$PROJECT_DIR$/count/node_modules/vuex/types/index.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
           <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prod/src/components/HelloWorld.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-375">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prod/src/store/mutations.js">
+    <entry file="file://$PROJECT_DIR$/prod/src/components/HelloWorld.vue" />
+    <entry file="file://$PROJECT_DIR$/count/src/store/mutations.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" column="4" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="7" selection-end-column="4" />
@@ -597,7 +690,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prod/src/App.vue">
+    <entry file="file://$PROJECT_DIR$/count/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -605,15 +698,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prod/node_modules/vuex/types/helpers.d.ts">
+    <entry file="file://$PROJECT_DIR$/count/node_modules/vuex/types/helpers.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="223">
           <caret line="49" column="21" lean-forward="false" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prod/.gitignore">
+    <entry file="file://$PROJECT_DIR$/count/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -621,17 +713,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prod/src/components/Count.vue">
+    <entry file="file://$PROJECT_DIR$/count/src/components/Count.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-225">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="250">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
             <element signature="e#254#281#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prod/src/store/index.js">
+    <entry file="file://$PROJECT_DIR$/count/src/store/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
@@ -639,25 +731,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prod/src/store/getters.js">
+    <entry file="file://$PROJECT_DIR$/count/src/store/getters.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prod/src/store/state.js">
+    <entry file="file://$PROJECT_DIR$/count/src/store/state.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prod/src/main.js">
+    <entry file="file://$PROJECT_DIR$/count/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
+        <state relative-caret-position="50">
           <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
@@ -665,7 +757,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prod/src/store/mutations.js">
+    <entry file="file://$PROJECT_DIR$/count/src/store/mutations.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
@@ -673,18 +765,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prod/src/store/actions.js">
+    <entry file="file://$PROJECT_DIR$/count/src/store/actions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prod/src/router/index.js">
+    <entry file="file://$PROJECT_DIR$/count/src/router/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        <state relative-caret-position="250">
+          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
           <folding />
         </state>
       </provider>
