@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../shoppingcart/src/store/state.js"],"names":["products","cart"],"mappings":";;;;;kBAAe;AACXA,cAAS,EADE;AAEXC,UAAK;AAFM,C","file":"state.js","sourcesContent":["export default {\r\n    products:[],\r\n    cart:[]\r\n}"]}

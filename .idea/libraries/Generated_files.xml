@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/shoppingcart/src/store/mutations.js" />
+        <item url="file://$PROJECT_DIR$/dist/shoppingcart/src/store/modules/products.js" />
+        <item url="file://$PROJECT_DIR$/dist/shoppingcart/src/store/modules/cart.js" />
+        <item url="file://$PROJECT_DIR$/dist/shoppingcart/src/store/getters.js" />
+        <item url="file://$PROJECT_DIR$/dist/shoppingcart/src/store/actions.js" />
+        <item url="file://$PROJECT_DIR$/dist/shoppingcart/src/store/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/shoppingcart/src/store/state.js" />
+        <item url="file://$PROJECT_DIR$/dist/shoppingcart/src/main.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/shoppingcart/src/api/products.js" />
+      <root url="file://$PROJECT_DIR$/dist/shoppingcart/src/api/products.js" />
+      <root url="file://$PROJECT_DIR$/dist/shoppingcart/src/store/mutations.js" />
+      <root url="file://$PROJECT_DIR$/dist/shoppingcart/src/store/modules/products.js" />
+      <root url="file://$PROJECT_DIR$/dist/shoppingcart/src/store/modules/cart.js" />
+      <root url="file://$PROJECT_DIR$/dist/shoppingcart/src/store/getters.js" />
+      <root url="file://$PROJECT_DIR$/dist/shoppingcart/src/store/actions.js" />
+      <root url="file://$PROJECT_DIR$/dist/shoppingcart/src/store/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/shoppingcart/src/store/state.js" />
+      <root url="file://$PROJECT_DIR$/dist/shoppingcart/src/main.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
