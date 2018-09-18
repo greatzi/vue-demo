@@ -14,8 +14,6 @@
 //         setTimeout(callback(_products), 300)
 //     }
 // }
-
-
 import axios from 'axios'
 function apiAxiosGet(callback) {
   axios.get('/api/index.json', {})
@@ -24,7 +22,6 @@ function apiAxiosGet(callback) {
       callback(response.data.products)
     })
 }
-
 
 export default {
   getProducts: function(callback) {

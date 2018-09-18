@@ -13,7 +13,7 @@ import apiProducts from '../api/products'
 var getAllProducts = function(context){
   var commit = context.commit;
     apiProducts.getProducts(function(products){
-    //console.info(products)
+    console.info("数据："+products)
     commit("receive_product", products)
   })
 }
